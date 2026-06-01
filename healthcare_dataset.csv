@@ -1,0 +1,11 @@
+name,age,gender,blood_type,medical_condition,admission_type,medication
+Sophia Reynolds,29,Female,A+,Asthma,Elective,Salbutamol
+James Carter,55,Male,B-,Hypertension,Urgent,Atenolol
+Olivia Chen,47,Female,AB+,Diabetes,Elective,Metformin
+Liam Thompson,38,Male,O+,Heart Disease,Urgent,Aspirin
+Emma Patel,61,Female,A-,Cancer,Emergency,Morphine
+Noah Singh,33,Male,B+,Stroke,Emergency,Heparin
+Isabella Gomez,26,Female,O-,Obesity,Elective,Ibuprofen
+Lucas Martin,44,Male,AB-,Cancer,Urgent,Paracetamol
+Ava Scott,52,Female,A+,Diabetes,Elective,Insulin
+Ethan Lee,70,Male,O-,Hypertension,Urgent,Amlodipine
