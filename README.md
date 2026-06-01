@@ -188,10 +188,9 @@ This project provides practical experience in:
 
 ## Author
 
-**Keerthi S M**
-Bachelor of Engineering (B.E.)
+**Keerthi S M**  
+Bachelor of Engineering (B.E.)  
 ACS Engineering College
-
 ---
 
 ## Project Title
